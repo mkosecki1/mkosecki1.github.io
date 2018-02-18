@@ -1,5 +1,5 @@
 $(document).ready(function() {
-  const apiRoot = 'https://stormy-mesa-73052.herokuapp.com/v1/task/';
+  const apiRoot = 'https://stormy-mesa-73052.herokuapp.com/v1/';
   //const apiRoot = 'http://localhost:8080/v1/';
   const trelloApiRoot = 'https://stormy-mesa-73052.herokuapp.com/v1/trello/';
   //const trelloApiRoot = 'http://localhost:8080/v1/trello/';
